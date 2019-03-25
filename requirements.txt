@@ -1,0 +1,21 @@
+#Environmental for running the notebook
+anaconda-client==1.7.2
+anaconda-navigator==1.9.6
+anaconda-project==0.8.2
+
+ipykernel==5.1.0
+ipython==7.2.0
+ipython-genutils==0.2.0
+ipywidgets==7.4.2
+
+jupyter==1.0.0
+jupyter-client==5.2.4
+jupyter-console==6.0.0
+jupyter-core==4.4.0
+jupyterlab==0.35.3
+jupyterlab-server==0.2.0
+
+# Libraries/modules used in the project
+pandas==0.23.4
+numpy==1.15.4
+matplotlib==3.0.2
